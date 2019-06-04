@@ -1,0 +1,15 @@
+{
+  "name": "node-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AmyShieh/node.git",
+  "author": "aliveAmy <aliveAmy719@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.1"
+  },
+  "dependencies": {
+    "nodemo": "^1.0.0"
+  }
+}
